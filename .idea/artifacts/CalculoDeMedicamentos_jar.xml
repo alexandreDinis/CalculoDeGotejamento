@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CalculoDeMedicamentos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalculoDeMedicamentos_jar</output-path>
+    <root id="archive" name="CalculoDeMedicamentos.jar">
+      <element id="module-output" name="CalculoDeMedicamentos" />
+    </root>
+  </artifact>
+</component>
